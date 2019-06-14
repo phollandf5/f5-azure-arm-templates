@@ -1,4 +1,4 @@
-# Deploying the BIG-IP VE in Azure - Single NIC
+# Deploying the BIG-IP VE in Azure! - Single NIC
 
 [![Slack Status](https://f5cloudsolutions.herokuapp.com/badge.svg)](https://f5cloudsolutions.herokuapp.com)
 [![Releases](https://img.shields.io/github/release/f5networks/f5-azure-arm-templates.svg)](https://github.com/f5networks/f5-azure-arm-templates/releases)
